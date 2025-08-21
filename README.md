@@ -6,8 +6,9 @@
   
   - [FlowCast: Financial Assets Trend Predictor](https://github.com/Jamil-20240100/RealEstateApp)
   - [FinCore: Online Banking Management System](https://github.com/Jamil-20240100/HermesBanking)
-  - [GlobalRank: Macroeconomic Analysis and Investment Insights Simulator](https://github.com/Jamil-20240100/HermesBanking)
   - [PropertyNow: Real Estate Management Platform](https://github.com/Jamil-20240100/RealEstateApp)
+  - [GlobalRank: Macroeconomic Analysis and Investment Insights Simulator](https://github.com/Jamil-20240100/HermesBanking)
+
 <h2/>
 <h2>📱 Connect with me:</h2>
 
