@@ -11,7 +11,7 @@
 
 <h2>📑 Certifications:</h2>
 
-  - [IT Essentials: Cisco Networking Academy](https://drive.google.com/file/d/12Vx4X5q_ERTJ5VD_UCmaq7VXbpjyHc_g/view?usp=sharing)
+  - [IT Essentials: Cisco Networking Academy](https://drive.google.com/drive/folders/1SILLK4XFDLXkkmeHPATXBysmts1FMJz-?usp=sharing)
 
 <h2>📱 Connect with me:</h2>
 
