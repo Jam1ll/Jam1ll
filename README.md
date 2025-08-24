@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamil <br/><a href="https://github.com/joshmadakor1">Software Developer</a>
+<h1>Hi, I'm Jamil <br/><a href="https://github.com/Jam1ll">Software Developer (C#, ASP.NET Core)</a>
 
 <h2>🛠️ Projects:</h2>
 
