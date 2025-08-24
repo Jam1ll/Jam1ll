@@ -11,8 +11,8 @@
 
 <h2>📑 Certifications:</h2>
 
-  - [IT Essentials: PC Hardware and Software (Cisco Networking Academy)](https://drive.google.com/drive/folders/1SILLK4XFDLXkkmeHPATXBysmts1FMJz-?usp=sharing)
   - [JavaScript Essentials (Cisco Networking Academy)](https://drive.google.com/file/d/1Ymsjx479kaVZd9_jI-eZcJvYLw24htXN/view?usp=sharing)
+  - [IT Essentials: PC Hardware and Software (Cisco Networking Academy)](https://drive.google.com/drive/folders/1SILLK4XFDLXkkmeHPATXBysmts1FMJz-?usp=sharing)
 
 <h2>📱 Connect with me:</h2>
 
