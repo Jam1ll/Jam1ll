@@ -12,7 +12,7 @@
 <h2>📑 Additional Courses:</h2>
 
   - [JavaScript Essentials (Cisco Networking Academy)](https://drive.google.com/file/d/1Ymsjx479kaVZd9_jI-eZcJvYLw24htXN/view?usp=sharing)
-  - [IT Essentials: PC Hardware and Software (Cisco Networking Academy)](https://drive.google.com/drive/folders/1SILLK4XFDLXkkmeHPATXBysmts1FMJz-?usp=sharing)
+  - [IT Essentials: PC Hardware and Software (Cisco Networking Academy)](https://drive.google.com/drive/folders/1exqju6KJcMm3b8oClr-av5XrOOF3-Gn4?usp=sharing)
 
 <h2>📱 Connect with me:</h2>
 
