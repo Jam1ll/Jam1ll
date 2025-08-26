@@ -5,7 +5,7 @@
 <h3>Full-Stack Web Apps and RESTful APIs</h3>
   
   - [FlowCast: Financial Assets Trend Predictor](https://github.com/Jam1ll/FlowCast)
-  - [FinCore: Online Banking Management System](https://github.com/Jamil-20240100/HermesBanking)
+  - [FinCore: Online Banking Management System](https://github.com/Jam1ll/FinCore)
   - [PropertyNow: Real Estate Management Platform](https://github.com/Jamil-20240100/RealEstateApp)
   - [GlobalRank: Macroeconomic Analysis and Investment Insights Simulator](https://github.com/Jamil-20240100/HermesBanking)
 
