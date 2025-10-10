@@ -4,11 +4,15 @@
 
 <h3>Full-Stack Web Apps and RESTful APIs</h3>
   
-  - [FlowCast: Financial Assets Trend Predictor](https://github.com/Jam1ll/FlowCast)
+  - [FlowCast: Simple Trend Predictor](https://github.com/Jam1ll/FlowCast)
   - [FinCore: Online Banking Management System](https://github.com/Jam1ll/FinCore)
   - [PropertyNow: Real Estate Management Platform](https://github.com/Jam1ll/PropertyNow)
   - [SmartVote: Electoral Process Simulator](https://github.com/Jam1ll/SmartVote)
-    
+
+<h3>Samsung Innovation Campus Project (Django, React)</h3>
+  
+  - [PredictFlows: ML Cryptocurrency and Asset Trend Analysis Platform](https://github.com/Jam1ll/PredictFlows)
+
 <h2>📑 Certificates:</h2>
 
   - [JavaScript Essentials (Cisco Networking Academy)](https://drive.google.com/file/d/1Ymsjx479kaVZd9_jI-eZcJvYLw24htXN/view?usp=sharing)
