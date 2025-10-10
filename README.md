@@ -9,7 +9,7 @@
   - [PropertyNow: Real Estate Management Platform](https://github.com/Jam1ll/PropertyNow)
   - [SmartVote: Electoral Process Simulator](https://github.com/Jam1ll/SmartVote)
 
-<h3>Samsung Innovation Campus Project (Django, React)</h3>
+<h3>Samsung Innovation Campus Project (Django, React, Python, TypeScript)</h3>
   
   - [PredictFlows: ML Cryptocurrency and Asset Trend Analysis Platform](https://github.com/Jam1ll/PredictFlows)
 
