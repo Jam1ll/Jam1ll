@@ -5,9 +5,10 @@
 <h3>Full-Stack Web Apps and RESTful APIs</h3>
   
   - [FlowCast: Simple Trend Predictor](https://github.com/Jam1ll/FlowCast)
+  - [SmartVote: Electoral Process Simulator](https://github.com/Jam1ll/SmartVote)
   - [FinCore: Online Banking Management System](https://github.com/Jam1ll/FinCore)
   - [PropertyNow: Real Estate Management Platform](https://github.com/Jam1ll/PropertyNow)
-  - [SmartVote: Electoral Process Simulator](https://github.com/Jam1ll/SmartVote)
+  
 
 <h3>Samsung Innovation Campus Projects</h3>
 
