@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamil <br/><a href="https://github.com/Jam1ll">Software Developer (C#, Python, JavaScript, .NET, NodeJS, React)</a>
+<h1>Hi, I'm Jamil <br/><a href="https://github.com/Jam1ll">Software Developer (.NET, C#, Python, JavaScript, .NET, NodeJS, React)</a>
 
 <h2>🛠️ Projects:</h2>
 
@@ -9,9 +9,10 @@
   - [PropertyNow: Real Estate Management Platform](https://github.com/Jam1ll/PropertyNow)
   - [SmartVote: Electoral Process Simulator](https://github.com/Jam1ll/SmartVote)
 
-<h3>Samsung Innovation Campus Project (Django, React, Python, TypeScript)</h3>
+<h3>Samsung Innovation Campus Projects
   
   - [PredictFlows: ML Cryptocurrency and Asset Trend Analysis Platform](https://github.com/Jam1ll/PredictFlows)
+  - [NextBlock: Real Estate Analyzer](https://github.com/Jam1ll/NextBlock)
 
 <h2>📑 Certificates:</h2>
 
