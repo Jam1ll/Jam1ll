@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamil <br/><a href="https://github.com/Jam1ll">Software Developer (C#, JavaScript, React, React Native)</a>
+<h1>Hi, I'm Jamil <br/><a href="https://github.com/Jam1ll">Software Developer (C#, Java, JavaScript, React, Angular)</a>
 
 <h2>🛠️ Projects:</h2>
 
