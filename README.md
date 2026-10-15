@@ -37,5 +37,5 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jamil%20Guzm%C3%A1n-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamil-guzman/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jamil%20Guzm%C3%A1n-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamilguzman/)
 [![Email](https://img.shields.io/badge/Email-jamilguzman202%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jamilguzman202@gmail.com)
