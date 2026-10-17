@@ -17,7 +17,7 @@
 #### Microservices & Distributed Systems
 | Project | Overview | Key Tech |
 | :--- | :--- | :--- |
-| **[MyFitness](https://github.com/Jam1ll/myfitness)** | Cloud-native fitness & workout management platform built on a 5-service architecture with centralized JWT edge security, batch inter-service communication, and fault tolerance. | Java 21, Spring Boot 4, Spring Cloud (Gateway, Eureka, OpenFeign, Resilience4j), PostgreSQL, Docker, GitHub Actions |
+| **[MyFitness](https://github.com/Jam1ll/myfitness)** | Cloud-native fitness & workout management platform built on a 5-service architecture with centralized JWT edge security, batch inter-service communication, and fault tolerance. | Java 21, Spring Boot 4, Spring Cloud (Gateway, Eureka (changed for kubernetes native discovery), OpenFeign, Resilience4j), PostgreSQL, Docker, GitHub Actions |
 
 #### Full-Stack Applications & RESTful APIs
 | Project | Overview |
